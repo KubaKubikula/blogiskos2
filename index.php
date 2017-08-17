@@ -8,4 +8,6 @@ echo "nějaká moje první změna v gitu kterou se pokusím nacpat přec příka
 echo "xx";
 
 echo "další změna";
+
+echo "změna na masteru";
 ?>
