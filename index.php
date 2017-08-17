@@ -10,4 +10,6 @@ echo "xx";
 echo "další změna";
 
 echo "změna ve větvi";
+
+echo "2zmena ve vetvi";
 ?>
